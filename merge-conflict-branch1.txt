@@ -1,0 +1,1 @@
+"merge-conflict-branch1 file" 
